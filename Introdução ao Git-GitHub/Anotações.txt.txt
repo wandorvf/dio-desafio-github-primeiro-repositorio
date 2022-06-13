@@ -1,0 +1,24 @@
+Comandos Básicos
+
+cd = entrar na pasta
+dir = listar
+mkdir = criar pasta
+del/rmdir = deletar pasta
+
+
+Ctrl + l = Limpar tela
+
+echo > = Criar arquivo
+
+
+
+Empurrar código do diretório da máquina para o GitHub
+
+1 - Adicionar o diretório = git add
+
+2 - criar um commit para o diretório = git commit -m "Diretório"
+
+3 - empurrar arquivo p/ github = git push origin Master or Main
+
+
+Clonar um diretório do GitHub para a máquina = git clone + link https
