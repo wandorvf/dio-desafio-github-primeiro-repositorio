@@ -1,4 +1,18 @@
-Comandos B�sicos
+# Anotações de Introdução ao Git/GitHub
+
+
+
+**OBS: É importante que para se trabalhar com essas ferramentas seja baixado o app do GIT e se crie uma conta no GITHub**
+
+#### Link para baixar o GIT 
+
+https://git-scm.com/downloads
+
+#### Link do Site GitHub
+
+https://github.com
+
+## Comandos Básicos do GIT Bash
 
 cd = entrar na pasta
 dir = listar
@@ -10,15 +24,22 @@ Ctrl + l = Limpar tela
 
 echo > = Criar arquivo
 
+## Comandos básicos de GIT
+
+- Iniciar GIT = git init
+- Iniciar Versionamento = git add
+- Criar um Commit = git commit
 
 
-Empurrar c�digo do diret�rio da m�quina para o GitHub
 
-1 - Adicionar o diret�rio = git add
+### Empurrar código do diretório da máquina para o GitHub
 
-2 - criar um commit para o diret�rio = git commit -m "Diret�rio"
+1 - Adicionar o diretório = git add
+
+2 - criar um commit para o diretório = git commit -m "Diretório"
 
 3 - empurrar arquivo p/ github = git push origin Master or Main
 
 
-Clonar um diret�rio do GitHub para a m�quina = git clone + link https
+ - Clonar um diretório do GitHub para a máquina = git clone + link https do GitHub
+
