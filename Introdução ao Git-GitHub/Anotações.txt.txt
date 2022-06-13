@@ -20,7 +20,7 @@ https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view
 
 
 
-## Comandos Básicos do GIT Bash
+## Comandos Básicos do GIT utilizados no GIT Bash
 
 cd = entrar na pasta
 dir = listar
